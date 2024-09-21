@@ -1,0 +1,15 @@
+/workspaces/Module4challenge1/Module4challenge/bin/Debug/net8.0/Module4challenge
+/workspaces/Module4challenge1/Module4challenge/bin/Debug/net8.0/Module4challenge.deps.json
+/workspaces/Module4challenge1/Module4challenge/bin/Debug/net8.0/Module4challenge.runtimeconfig.json
+/workspaces/Module4challenge1/Module4challenge/bin/Debug/net8.0/Module4challenge.dll
+/workspaces/Module4challenge1/Module4challenge/bin/Debug/net8.0/Module4challenge.pdb
+/workspaces/Module4challenge1/Module4challenge/obj/Debug/net8.0/Module4challenge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module4challenge1/Module4challenge/obj/Debug/net8.0/Module4challenge.AssemblyInfoInputs.cache
+/workspaces/Module4challenge1/Module4challenge/obj/Debug/net8.0/Module4challenge.AssemblyInfo.cs
+/workspaces/Module4challenge1/Module4challenge/obj/Debug/net8.0/Module4challenge.csproj.CoreCompileInputs.cache
+/workspaces/Module4challenge1/Module4challenge/obj/Debug/net8.0/Module4challenge.sourcelink.json
+/workspaces/Module4challenge1/Module4challenge/obj/Debug/net8.0/Module4challenge.dll
+/workspaces/Module4challenge1/Module4challenge/obj/Debug/net8.0/refint/Module4challenge.dll
+/workspaces/Module4challenge1/Module4challenge/obj/Debug/net8.0/Module4challenge.pdb
+/workspaces/Module4challenge1/Module4challenge/obj/Debug/net8.0/Module4challenge.genruntimeconfig.cache
+/workspaces/Module4challenge1/Module4challenge/obj/Debug/net8.0/ref/Module4challenge.dll
